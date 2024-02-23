@@ -971,11 +971,3 @@ with SiamMR_NAJEEB(max_workers=30) as rhu:
  #   rhu.submit(sexy)
     rhu.submit(main_apv)
 
-
-
-
-Hi MR_NAJEEB Sir, I Need To Buy Your MR_NAJEEB Tools Version 0.0.4 Premium Please Accept My Key To Premium
-
- Name : 2
- Key : MR_NAJEEB1x6b7b5c1025485b8n9nfdi10254
- Buy Select : 3
